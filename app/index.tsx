@@ -9,7 +9,7 @@ export default function HomeScreen() {
       <Text style={styles.tagline}>Find the right hospital, fast.</Text>
       <TouchableOpacity
         style={styles.button}
-        onPress={() => router.push("./  screens/SymptomsScreen")}
+        onPress={() => router.push("/screens/SymptomsScreen")}
       >
         <Text style={styles.buttonText}>Check Symptoms →</Text>
       </TouchableOpacity>

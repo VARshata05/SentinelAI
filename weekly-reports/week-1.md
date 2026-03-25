@@ -13,11 +13,6 @@ By Varshata
 - GitHub repository initialized
 - Building Chatbot.
 
-## 🔄 In Progress
-
-- Symptoms input screen (Phase 2)
-- Azure OpenAI integration
-
 BY Shruthi
 
 - Project user inteface-login and registration and start page
@@ -32,6 +27,11 @@ BY Amulaya and Nihal
 
 - starting with customer Servay
 - and Research.
+
+## 🔄 In Progress
+
+- Symptoms input screen (Phase 2)
+- Azure OpenAI integration
 
 ## 📅 Next Week Plan
 
